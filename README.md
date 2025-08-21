@@ -3,13 +3,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sudhanshu-Bigshorts&theme=tokyonight" height="160"/>
-</p>
-
----
-
 ## 🛠️ Tech & Tools  
 
 <p align="center">
