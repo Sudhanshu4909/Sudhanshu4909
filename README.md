@@ -7,11 +7,6 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sudhanshu-Bigshorts&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhanshu-Bigshorts&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Sudhanshu-Bigshorts&theme=tokyonight" height="160"/>
 </p>
 
