@@ -3,8 +3,15 @@
 
 ---
 
-## 🛠️ Tech & Tools  
+## 📱 My Company - BigShorts
+**Download our app:**
+- [📱 Google Play Store](https://play.google.com/store/apps/details?id=com.bigshorts.flutterapp&pcampaignid=web_share)
+- [🍎 Apple App Store](https://apps.apple.com/in/app/bigshorts/id6450892011)
+- [🌐 Website](https://about.bigshorts.co/)
 
+---
+
+## 🛠️ Tech & Tools  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width="52" alt="dart logo"  />
