@@ -4,14 +4,6 @@
 
 ---
 
-## 📊 GitHub Activity Heatmap  
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Sudhanshu-Bigshorts&theme=react-dark&hide_border=true" />
-</p>
-
----
-
 ## 📊 GitHub Stats  
 
 <p align="center">
