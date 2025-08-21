@@ -46,7 +46,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sudhanshu-Bigshorts&color=blue&style=for-the-badge" />
-</p>
