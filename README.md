@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=250&section=header&text=Sudhanshu%20Swamis&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Architect%20%7C%20Flutter%20Engineer%20%7C%20Cloud%20Systems&descAlignY=60&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=250&section=header&text=Sudhanshu%20Swami&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Architect%20%7C%20Flutter%20Engineer%20%7C%20Cloud%20Systems&descAlignY=60&descAlign=50" />
 </p>
 
 ---
