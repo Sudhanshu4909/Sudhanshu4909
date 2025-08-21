@@ -17,8 +17,6 @@
   </a>
 </p>
 
-- [🌐 Website](https://about.bigshorts.co/)
-
 ---
 
 ## 🛠️ Tech & Tools  
