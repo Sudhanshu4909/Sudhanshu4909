@@ -4,8 +4,7 @@
 
 ---
 
-## 📱 My Company - BigShorts
-**Download our app:**  
+**Download Bigshorts app:**  
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.bigshorts.flutterapp&pcampaignid=web_share">
