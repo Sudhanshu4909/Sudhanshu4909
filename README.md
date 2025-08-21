@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.bigshorts.flutterapp&pcampaignid=web_share">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="50" alt="Get it on Google Play" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="30" alt="Get it on Google Play" />
   </a>
   &nbsp;&nbsp;
   <a href="https://apps.apple.com/in/app/bigshorts/id6450892011">
