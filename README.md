@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sudhanshu  
 
-🚀 **AI Architect | Flutter & Android Engineer | Cloud & ML Systems**
+**AI Architect | Flutter & Android Engineer | Cloud & ML Systems**
 
 
 
@@ -16,7 +16,6 @@
   </a>
 </p>
 
----
 
 ## 🛠️ Tech & Tools  
 
