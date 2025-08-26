@@ -4,7 +4,7 @@
 
 
 
-**Download Bigshorts app:**  
+**Download BigShorts app:**  
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.bigshorts.flutterapp&pcampaignid=web_share">
