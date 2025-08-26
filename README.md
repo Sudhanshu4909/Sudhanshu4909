@@ -2,7 +2,7 @@
 
 🚀 **AI Architect | Flutter & Android Engineer | Cloud & ML Systems**
 
----
+
 
 **Download Bigshorts app:**  
 
